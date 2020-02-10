@@ -44,6 +44,7 @@ public class UserDao {
         }
     }
 
+
     public List<User> getAllUsers() {
         List<User> users = new LinkedList<>();
         try {
